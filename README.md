@@ -2,9 +2,9 @@
 
 ##  Contents
 
-* [Navigation Bar](#nav-bar)
-* [Five sections](#sections)
-* [Footer ](#footer)
+- Navigation Bar
+- Five sections
+- Footer 
 
 
 ## Description
